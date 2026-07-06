@@ -1,0 +1,13 @@
+Citizen Guide to Filing and Tracking Grievances
+
+Any resident can register a complaint by creating a citizen account and submitting the complaint form with a title, description, category, and optionally a photo and GPS location. Each complaint receives a unique complaint ID in the format GRV-YEAR-NUMBER.
+
+Complaints move through the following stages: Registered, Assigned to an officer, Accepted by the officer, Work Started, Completed, and finally Citizen Feedback. Citizens can track the current stage at any time from their dashboard using the complaint ID.
+
+If a citizen reports an issue that has already been reported by someone else at the same location, the system links the new report to the existing complaint instead of creating a duplicate entry. This helps departments understand how many people are affected by the same issue and prioritize accordingly.
+
+Emergency complaints such as bridge collapse, major water pipeline burst, or exposed live electrical wiring are automatically marked as Critical priority and routed for immediate attention.
+
+After a complaint is marked Completed, the citizen is asked to provide a star rating from 1 to 5 and an optional comment describing their experience with the resolution.
+
+Citizens who wish to report corruption can do so through the Corruption category, and their identity is kept confidential during the Vigilance Cell's review.
